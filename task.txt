@@ -1,0 +1,13 @@
+Використовуючи функцію, напишіть програму на Python. Функція має приймати дані від користувача. Програма повинна генерувати випадкове число від 1 до 100 і зберігати його в змінній. Користувачеві пропонується вгадати число. Якщо припущення користувача правильне, програма повинна надрукувати «Вітаємо! Ви вгадали правильне число». і вихід. Якщо припущення користувача неправильне, програма має надати зворотний зв’язок, як-от «Занадто високо» або «Занадто низько», і дозволити користувачеві вгадати ще раз. Користувач повинен мати максимум 5 спроб, щоб вгадати правильне число. Після 5 невдалих спроб програма повинна надрукувати «Вибачте, у вас закінчилися спроби. Правильний номер був [правильний номер]» і вийти.
+
+
+
+ENG:
+
+
+
+Using function, write python program. The function should take input from user. Program should generates a random number between 1 and 100 and stores it in a variable. The user is asked to guess the number. If the user's guess is correct, the program should print "Congratulations! You guessed the right number." and exit. If the user's guess is incorrect, the program should provide feedback like "Too high" or "Too low" and allow the user to guess again. The user should have a maximum of 5 attempts to guess the correct number. After 5 incorrect attempts, the program should print "Sorry, you've run out of attempts. The correct number was [the correct number]" and exit.
+
+
+
+Формат здачі ДЗ:1. Код програми й скріни роботи програми
